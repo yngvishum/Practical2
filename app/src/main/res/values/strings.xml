@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practical 2</string>
+    <string name="Profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Supposely you should write something about yourself here but since I do not know what to write,
+        \n\I will talk about our lord and saviour Gabe Newell.
+        \n\Since his ascendent, we humanity has been blessed by his ability of maintaining a gaming platform
+        \n\that gifted us many, many games that have changed uncountable amount of peoples hobby, perspective, lifestyle, and even life.
+        \n\His importance was that without him, human\'s life would be much more boring and lifeless,
+        \n\world would be black and white without colour.
+        \n\However, with his 250kg beast weight shows his untiltable, his bouncy belly that makes people recall the touch of the mother Maria,
+        \n\his manly beard that resemble the courage of vikings.
+    </string>
+</resources>
